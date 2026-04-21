@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+python-dotenv
+requests
+beautifulsoup4
+pandas
+pymupdf
+faiss-cpu
+sentence-transformers
+openai
+llama-index
+llama-index-vector-stores-faiss
+llama-index-retrievers-bm25
+llama-index-embeddings-huggingface

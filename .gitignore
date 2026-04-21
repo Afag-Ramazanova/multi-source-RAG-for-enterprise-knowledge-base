@@ -1,0 +1,6 @@
+.env
+.env.example
+multi_source_rag/data/index/
+multi_source_rag/data/index_vector/
+multi_source_rag/data/index_sentence/
+_tmp_index_test/

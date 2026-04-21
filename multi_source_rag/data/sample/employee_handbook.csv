@@ -1,0 +1,4 @@
+policy_id,title,department,summary,last_updated
+HR-001,Remote Work,Human Resources,Employees may work remotely up to three days per week with manager approval.,2026-01-15
+IT-014,Password Rotation,IT Security,All privileged accounts must rotate passwords every 90 days and use MFA.,2026-02-01
+FIN-020,Expense Reimbursement,Finance,Expense reports must be submitted within 30 days with itemized receipts.,2026-03-10
